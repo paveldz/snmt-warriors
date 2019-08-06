@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnmtWarriors.Domain", "src\SnmtWarriors.Domain\SnmtWarriors.Domain.csproj", "{697C96A0-401A-4434-84AB-83163D3BA80B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FBE3D6D4-54E7-4AA6-899B-0ADC7C03C746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnmtWarriors.App", "src\SnmtWarriors.App\SnmtWarriors.App.csproj", "{9C4245AC-0BE6-4160-A419-275D2031D9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697C96A0-401A-4434-84AB-83163D3BA80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697C96A0-401A-4434-84AB-83163D3BA80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697C96A0-401A-4434-84AB-83163D3BA80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697C96A0-401A-4434-84AB-83163D3BA80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4245AC-0BE6-4160-A419-275D2031D9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4245AC-0BE6-4160-A419-275D2031D9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4245AC-0BE6-4160-A419-275D2031D9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4245AC-0BE6-4160-A419-275D2031D9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{697C96A0-401A-4434-84AB-83163D3BA80B} = {FBE3D6D4-54E7-4AA6-899B-0ADC7C03C746}
+		{9C4245AC-0BE6-4160-A419-275D2031D9DE} = {FBE3D6D4-54E7-4AA6-899B-0ADC7C03C746}
+	EndGlobalSection
+EndGlobal
